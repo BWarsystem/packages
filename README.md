@@ -1,3 +1,4 @@
+packages.sh é uma shell script que vai instalar e atualizar repositórios necessários pra execução de scripts em seu terminal linux mobile (no caso o Termux).
 Para usá-la, primeiro dê permissão de 
 acesso com o comando:
 
